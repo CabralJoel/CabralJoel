@@ -1,16 +1,29 @@
-## Hi there 👋
+## <div align="center">Hi!, I'm Hector Joel Cabral </div>
+I am a junior developer from Argentina, passionate about technology and software development. My goal is to continue learning new technologies and expanding my skills while growing professionally. I am looking to collaborate on interesting projects that allow me to face new challenges and grow as a professional.
+<section>
+  <section>
+  <a href="https://www.linkedin.com/in/hector-joel-cabral" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</section>
 
-<!--
-**CabralJoel/CabralJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Frontend
 
-Here are some ideas to get you started:
+<img
+  src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&perline=7"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Backend & Database
+
+<img
+  src="https://skillicons.dev/icons?i=java,postgresql&perline=6"
+/>
+
+### 🛠️ Tools & DevOps
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,idea,spring,hibernate,postman&perline=7"
+/>
+
+### ⚙️ GitHub Analytics
+
