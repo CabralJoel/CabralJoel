@@ -25,5 +25,3 @@ I am a junior developer from Argentina, passionate about technology and software
   src="https://skillicons.dev/icons?i=git,github,vscode,idea,spring,hibernate,postman&perline=7"
 />
 
-### ⚙️ GitHub Analytics
-
